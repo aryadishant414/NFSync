@@ -8,3 +8,5 @@ This project demonstrates how to host a web application by configuring a client-
 - NFS (Network File System)
 - Linux (Ubuntu, RedHat)
 
+## 🖼️ Architecture
+
